@@ -1,0 +1,47 @@
+{
+  "Normal": {
+    "packet_median": 18.0,
+    "dur_q25": 0.00206325,
+    "dur_q75": 0.8655635,
+    "rate_q25": 22.88978075,
+    "rate_q75": 3125.000079,
+    "sbytes_per_packet": 45.0,
+    "dbytes_per_packet": 35.608695652173914
+  },
+  "DoS": {
+    "packet_median": 2.0,
+    "dur_q25": 6e-06,
+    "dur_q75": 0.409213,
+    "rate_q25": 55.712295,
+    "rate_q75": 166666.6608,
+    "sbytes_per_packet": 100.0,
+    "dbytes_per_packet": 64.0
+  },
+  "Port Scan": {
+    "packet_median": 16.0,
+    "dur_q25": 8e-06,
+    "dur_q75": 0.820837,
+    "rate_q25": 20.45351425,
+    "rate_q75": 125000.0003,
+    "sbytes_per_packet": 57.25,
+    "dbytes_per_packet": 16.75
+  },
+  "Brute Force": {
+    "packet_median": 2.0,
+    "dur_q25": 4e-06,
+    "dur_q75": 9e-06,
+    "rate_q25": 111111.1072,
+    "rate_q75": 250000.0006,
+    "sbytes_per_packet": 57.0,
+    "dbytes_per_packet": 64.0
+  },
+  "Other attacks": {
+    "packet_median": 18.0,
+    "dur_q25": 1e-05,
+    "dur_q75": 1.0796109999999999,
+    "rate_q25": 25.02474875,
+    "rate_q75": 100000.0025,
+    "sbytes_per_packet": 79.875,
+    "dbytes_per_packet": 16.75
+  }
+}

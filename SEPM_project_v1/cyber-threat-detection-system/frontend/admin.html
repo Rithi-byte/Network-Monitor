@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin — Database &amp; Users</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body data-page="admin">
+    <header class="topbar site-header">
+      <a href="/" class="brand brand-link">CyberShield <span class="brand-sub">Threat Lab</span></a>
+      <nav class="nav-links nav-main" aria-label="Primary">
+        <a href="/" class="nav-item">Home</a>
+        <a href="/dashboard" class="nav-item">Dashboard</a>
+        <a href="/simulator" class="nav-item">Simulator</a>
+        <a href="/admin" class="nav-item active">Admin</a>
+        <span class="nav-divider" aria-hidden="true"></span>
+        <span id="whoamiAdmin" class="muted nav-user"></span>
+        <button type="button" class="btn btn-ghost btn-sm" id="logoutBtnAdmin">Logout</button>
+      </nav>
+    </header>
+    <main class="container">
+      <h1 style="margin-top:0;font-size:1.35rem;">Administrator</h1>
+      <p class="muted">
+        Manage <code>users.csv</code> and inspect <code>logs.csv</code> / <code>alerts.csv</code>. Only accounts with role
+        <strong>admin</strong> can open this page.
+      </p>
+
+      <div class="admin-tabs" role="tablist">
+        <button type="button" class="btn tab-btn active" data-tab="users" role="tab" aria-selected="true">Users</button>
+        <button type="button" class="btn tab-btn" data-tab="logs" role="tab">Traffic logs</button>
+        <button type="button" class="btn tab-btn" data-tab="alerts" role="tab">Alerts</button>
+      </div>
+
+      <section id="panelUsers" class="admin-panel card" data-panel="users">
+        <h2>User accounts</h2>
+        <p class="muted">Add users, change roles, or remove accounts. Passwords are stored hashed; they are not shown here.</p>
+        <form id="adminAddUser" class="admin-add-form">
+          <div class="form-row">
+            <div>
+              <label for="newUser">Username</label>
+              <input id="newUser" required autocomplete="off" />
+            </div>
+            <div>
+              <label for="newPass">Password</label>
+              <input id="newPass" type="password" required autocomplete="new-password" />
+            </div>
+            <div>
+              <label for="newRole">Role</label>
+              <select id="newRole">
+                <option value="user">user</option>
+                <option value="admin">admin</option>
+              </select>
+            </div>
+          </div>
+          <button type="submit" class="btn btn-primary">Add user</button>
+          <span id="adminUserMsg" class="muted" style="margin-left:0.75rem;"></span>
+        </form>
+        <div class="table-wrap" style="max-height:360px;margin-top:1rem;">
+          <table>
+            <thead>
+              <tr>
+                <th>Username</th>
+                <th>Role</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="adminUsersBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section id="panelLogs" class="admin-panel card" hidden data-panel="logs">
+        <h2>Traffic logs (<code>logs.csv</code>)</h2>
+        <div class="table-wrap" style="max-height:420px;">
+          <table>
+            <thead>
+              <tr>
+                <th>Time</th>
+                <th>Src</th>
+                <th>Dst</th>
+                <th>Proto</th>
+                <th>Packets</th>
+                <th>Scenario</th>
+              </tr>
+            </thead>
+            <tbody id="adminLogsBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section id="panelAlerts" class="admin-panel card" hidden data-panel="alerts">
+        <h2>Alerts (<code>alerts.csv</code>)</h2>
+        <div class="table-wrap" style="max-height:420px;">
+          <table>
+            <thead>
+              <tr>
+                <th>Time</th>
+                <th>Attack</th>
+                <th>Src</th>
+                <th>Dst</th>
+                <th>Risk</th>
+                <th>Confidence</th>
+              </tr>
+            </thead>
+            <tbody id="adminAlertsBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+    <script src="/script.js"></script>
+  </body>
+</html>

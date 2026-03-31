@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cyber Threat Detection System — Network Simulation &amp; ML</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body data-page="home">
+    <header class="topbar site-header">
+      <a href="/" class="brand brand-link">CyberShield <span class="brand-sub">Threat Lab</span></a>
+      <nav class="nav-links nav-main" aria-label="Primary">
+        <a href="/" class="nav-item active">Home</a>
+        <a href="/dashboard" class="nav-item" id="navDashboard" hidden>Dashboard</a>
+        <a href="/simulator" class="nav-item" id="navSimulator" hidden>Simulator</a>
+        <a href="/admin" class="nav-item" id="navAdmin" hidden>Admin</a>
+        <span class="nav-divider" aria-hidden="true"></span>
+        <span id="guestNav" class="nav-auth-btns">
+          <a href="/login" class="btn btn-ghost btn-sm">Sign in</a>
+          <a href="/register" class="btn btn-primary btn-sm">Create account</a>
+        </span>
+        <span id="userNav" class="nav-auth-btns" hidden>
+          <a href="/dashboard" class="btn btn-primary btn-sm">Dashboard</a>
+          <a href="/simulator" class="btn btn-ghost btn-sm">Simulator</a>
+        </span>
+      </nav>
+    </header>
+
+    <main>
+      <section class="landing-hero">
+        <div class="container landing-inner">
+          <p class="eyebrow">Network simulation · Scikit-learn · Explainable AI</p>
+          <h1>Cyber Threat Detection with Network Simulation</h1>
+          <p class="lead">
+            Model suspicious traffic on a virtual topology, run UNSW-NB15–trained ML classifiers,
+            review SHAP explanations, and track alerts in one place.
+          </p>
+          <div class="hero-actions">
+            <a href="/register" class="btn btn-primary btn-lg">Get started</a>
+            <a href="/login" class="btn btn-outline btn-lg">Sign in</a>
+          </div>
+          <p class="muted hero-note">
+            Run the app with Flask at the project root so <code>/api</code> and sessions work.
+            Demo admin: <code>admin</code> / <code>admin123</code>
+          </p>
+        </div>
+      </section>
+
+      <section class="container section-block">
+        <h2 class="section-title">What you can do</h2>
+        <div class="feature-grid">
+          <article class="feature-card">
+            <h3>Quick simulation</h3>
+            <p>Generate flows from device roles, protocols, and attack scenarios; logs land in CSV and pass through the detector.</p>
+          </article>
+          <article class="feature-card">
+            <h3>Visual network builder</h3>
+            <p>Drop laptops, routers, and servers on a canvas, wire links with jsPlumb, assign IPs, then simulate each edge.</p>
+          </article>
+          <article class="feature-card">
+            <h3>ML + explanations</h3>
+            <p>Random Forest trained on your UNSW-NB15 dataset; SHAP highlights the strongest drivers for each prediction.</p>
+          </article>
+          <article class="feature-card">
+            <h3>Alerts &amp; charts</h3>
+            <p>Attack-only alerts hit <code>alerts.csv</code>; Chart.js summarizes volume, distribution, and trends.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="container section-cta">
+        <div class="cta-panel">
+          <div>
+            <h2>Ready to open the dashboard?</h2>
+            <p class="muted" style="margin:0">Authenticate once, then use Quick Simulation, Simulator, logs, and visuals.</p>
+          </div>
+          <div class="cta-actions">
+            <a href="/login" class="btn btn-primary">Go to dashboard</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <span class="muted">Cyber Threat Detection System — coursework / demo</span>
+        <nav class="footer-nav">
+          <a href="/login">Sign in</a>
+          <a href="/register">Register</a>
+          <a href="/dashboard">Dashboard</a>
+          <a href="/simulator">Simulator</a>
+        </nav>
+      </div>
+    </footer>
+
+    <script src="/script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign in — Cyber Threat Detection</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body data-page="login" class="auth-body">
+    <header class="topbar site-header">
+      <a href="/" class="brand brand-link">CyberShield <span class="brand-sub">Threat Lab</span></a>
+      <nav class="nav-links nav-main" aria-label="Primary">
+        <a href="/" class="nav-item">Home</a>
+        <a href="/register" class="nav-item">Register</a>
+      </nav>
+    </header>
+
+    <main class="auth-wrap">
+      <div class="auth-panel card">
+        <h1 class="auth-title">Sign in</h1>
+        <p class="muted auth-lead">Access the threat dashboard and simulator.</p>
+        <div id="registeredBanner" class="success-panel" hidden>Account created. You can sign in below.</div>
+        <div id="loginError" class="error-msg" role="alert" hidden></div>
+        <form id="loginForm" class="auth-form">
+          <label for="username">Username</label>
+          <input id="username" name="username" autocomplete="username" required />
+          <label for="password">Password</label>
+          <input id="password" type="password" name="password" autocomplete="current-password" required />
+          <button type="submit" class="btn btn-primary btn-block">Sign in</button>
+        </form>
+        <p class="auth-switch muted">
+          No account?
+          <a href="/register">Create one</a>
+        </p>
+        <p class="muted auth-hint">Demo: <code>admin</code> / <code>admin123</code></p>
+      </div>
+    </main>
+
+    <footer class="site-footer site-footer-min">
+      <div class="container footer-inner">
+        <a href="/" class="muted footer-back">&larr; Back to home</a>
+      </div>
+    </footer>
+
+    <script src="/script.js"></script>
+  </body>
+</html>

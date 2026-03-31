@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard — Cyber Threat Detection</title>
+    <link rel="stylesheet" href="/style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  </head>
+  <body data-page="dashboard">
+    <header class="topbar site-header">
+      <a href="/" class="brand brand-link">CyberShield <span class="brand-sub">Threat Lab</span></a>
+      <nav class="nav-links nav-main" aria-label="Primary">
+        <a href="/" class="nav-item">Home</a>
+        <a href="/dashboard" class="nav-item active">Dashboard</a>
+        <a href="/simulator" class="nav-item">Simulator</a>
+        <a href="/admin" class="nav-item" id="navAdmin" hidden>Admin</a>
+        <span class="nav-divider" aria-hidden="true"></span>
+        <span id="whoami" class="muted nav-user"></span>
+        <button type="button" class="btn btn-ghost btn-sm" id="logoutBtn">Logout</button>
+      </nav>
+    </header>
+    <main class="container">
+      <section class="dashboard-tiles">
+        <div class="tile">
+          <h3>Quick Simulation</h3>
+          <p>Form-based traffic</p>
+        </div>
+        <div class="tile">
+          <h3>Network Simulator</h3>
+          <p><a href="/simulator">Open visual topology</a></p>
+        </div>
+        <div class="tile">
+          <h3>Alerts</h3>
+          <p id="alertCount">—</p>
+        </div>
+        <div class="tile">
+          <h3>Traffic Logs</h3>
+          <p id="logCount">—</p>
+        </div>
+      </section>
+
+      <div class="grid-2">
+        <section class="card">
+          <h2>Quick simulation</h2>
+          <p class="muted">
+            Generate synthetic flows, run the detector, and read a SHAP-style explanation.
+            Enable <strong>random traffic</strong> to let the app pick protocol, volume, devices, and traffic class—then see what the model infers.
+          </p>
+          <form id="quickForm">
+            <label class="checkbox-row">
+              <input type="checkbox" id="q_random" />
+              <span>Random traffic (ignore manual fields below for this run)</span>
+            </label>
+            <div id="quickManualFields">
+              <div class="form-row">
+                <div>
+                  <label for="q_src">Source device</label>
+                  <select id="q_src" name="source_device">
+                    <option>Laptop</option>
+                    <option>Router</option>
+                    <option>Server</option>
+                  </select>
+                </div>
+                <div>
+                  <label for="q_dst">Destination device</label>
+                  <select id="q_dst" name="destination_device">
+                    <option>Server</option>
+                    <option>Router</option>
+                    <option>Laptop</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-row">
+                <div>
+                  <label for="q_proto">Protocol</label>
+                  <select id="q_proto" name="protocol">
+                    <option>TCP</option>
+                    <option>UDP</option>
+                    <option>ICMP</option>
+                  </select>
+                </div>
+                <div>
+                  <label for="q_attack">Attack type (scenario)</label>
+                  <select id="q_attack" name="attack_type">
+                    <option>Normal</option>
+                    <option>DoS</option>
+                    <option>Port Scan</option>
+                    <option>Brute Force</option>
+                  </select>
+                </div>
+              </div>
+              <label for="q_pkts">Number of packets</label>
+              <input id="q_pkts" type="number" name="num_packets" value="500" min="1" max="1000000" />
+            </div>
+            <button type="submit" class="btn btn-primary">Run simulation</button>
+          </form>
+          <div id="quickResult" class="success-panel" hidden></div>
+        </section>
+
+        <section class="card">
+          <h2>Latest ML result</h2>
+          <p id="mlSummary" class="muted">Run a simulation to see prediction and explanation.</p>
+          <div id="reasonPanel" class="reason-panel" hidden></div>
+          <h3 class="explain-subheading" id="explainSub" hidden>Raw feature list</h3>
+          <ul id="explainList" class="explain-list" hidden></ul>
+        </section>
+      </div>
+
+      <section class="card">
+        <h2>Visualization</h2>
+        <div class="chart-row">
+          <div class="chart-box"><canvas id="chartTime"></canvas></div>
+          <div class="chart-box"><canvas id="chartDist"></canvas></div>
+          <div class="chart-box"><canvas id="chartVol"></canvas></div>
+        </div>
+      </section>
+
+      <div class="grid-2">
+        <section class="card">
+          <h2>Alerts</h2>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Time</th>
+                  <th>Attack</th>
+                  <th>Src</th>
+                  <th>Dst</th>
+                  <th>Risk</th>
+                </tr>
+              </thead>
+              <tbody id="alertsBody"></tbody>
+            </table>
+          </div>
+        </section>
+        <section class="card">
+          <h2>Traffic logs</h2>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Time</th>
+                  <th>Src</th>
+                  <th>Dst</th>
+                  <th>Proto</th>
+                  <th>Packets</th>
+                  <th>Scenario</th>
+                </tr>
+              </thead>
+              <tbody id="logsBody"></tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+    </main>
+    <script src="/script.js"></script>
+  </body>
+</html>

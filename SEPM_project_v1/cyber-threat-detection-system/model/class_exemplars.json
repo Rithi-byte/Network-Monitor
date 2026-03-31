@@ -1,0 +1,4812 @@
+{
+  "Normal": [
+    {
+      "packet_count": 8.0,
+      "dur": 0.110319,
+      "sbytes": 978.0,
+      "dbytes": 86.0,
+      "rate": 63.45235,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 36.0,
+      "dur": 0.004943,
+      "sbytes": 1470.0,
+      "dbytes": 1728.0,
+      "rate": 7080.719992,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 0.001022,
+      "sbytes": 146.0,
+      "dbytes": 178.0,
+      "rate": 2935.420795,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 28.0,
+      "dur": 1.238755,
+      "sbytes": 17266.0,
+      "dbytes": 354.0,
+      "rate": 21.796078,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.001642,
+      "sbytes": 520.0,
+      "dbytes": 304.0,
+      "rate": 4263.093667,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 1.483941,
+      "sbytes": 828.0,
+      "dbytes": 1364.0,
+      "rate": 12.803744,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.788009,
+      "sbytes": 534.0,
+      "dbytes": 354.0,
+      "rate": 21.573358,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 36.0,
+      "dur": 0.004541,
+      "sbytes": 1470.0,
+      "dbytes": 1728.0,
+      "rate": 7707.553596,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 0.001083,
+      "sbytes": 146.0,
+      "dbytes": 178.0,
+      "rate": 2770.083151,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.004635,
+      "sbytes": 568.0,
+      "dbytes": 304.0,
+      "rate": 1510.248068,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 94.0,
+      "dur": 0.066447,
+      "sbytes": 2854.0,
+      "dbytes": 30622.0,
+      "rate": 1399.611779,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.961903,
+      "sbytes": 918.0,
+      "dbytes": 354.0,
+      "rate": 17.6733,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.634406,
+      "sbytes": 582.0,
+      "dbytes": 268.0,
+      "rate": 23.644166,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 36.0,
+      "dur": 0.004927,
+      "sbytes": 4560.0,
+      "dbytes": 2456.0,
+      "rate": 7103.714183,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 130.0,
+      "dur": 0.327981,
+      "sbytes": 3910.0,
+      "dbytes": 51910.0,
+      "rate": 393.315472,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 22.0,
+      "dur": 0.736356,
+      "sbytes": 998.0,
+      "dbytes": 840.0,
+      "rate": 28.518813,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.00183,
+      "sbytes": 528.0,
+      "dbytes": 304.0,
+      "rate": 3825.136686,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 0.001241,
+      "sbytes": 146.0,
+      "dbytes": 178.0,
+      "rate": 2417.405279,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 34.0,
+      "dur": 0.099788,
+      "sbytes": 1540.0,
+      "dbytes": 1644.0,
+      "rate": 330.701077,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.292636,
+      "sbytes": 1012.0,
+      "dbytes": 86.0,
+      "rate": 23.920501,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.129543,
+      "sbytes": 534.0,
+      "dbytes": 354.0,
+      "rate": 15.050335,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 0.940085,
+      "sbytes": 974.0,
+      "dbytes": 758.0,
+      "rate": 20.210939,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 104.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 170.0,
+      "dur": 0.174952,
+      "sbytes": 4862.0,
+      "dbytes": 77276.0,
+      "rate": 965.979238,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 248.0,
+      "dur": 0.771935,
+      "sbytes": 7814.0,
+      "dbytes": 14682.0,
+      "rate": 319.975133,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 130.0,
+      "dur": 0.069545,
+      "sbytes": 3910.0,
+      "dbytes": 51910.0,
+      "rate": 1854.914063,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.004183,
+      "sbytes": 1044.0,
+      "dbytes": 824.0,
+      "rate": 4064.068895,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.022807,
+      "sbytes": 1040.0,
+      "dbytes": 824.0,
+      "rate": 745.385182,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 32.0,
+      "dur": 1.131898,
+      "sbytes": 1684.0,
+      "dbytes": 10168.0,
+      "rate": 27.387626,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 36.0,
+      "dur": 0.006859,
+      "sbytes": 4560.0,
+      "dbytes": 2456.0,
+      "rate": 5102.784781,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 1.089995,
+      "sbytes": 998.0,
+      "dbytes": 86.0,
+      "rate": 6.422048,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 62.0,
+      "dur": 0.012588,
+      "sbytes": 4804.0,
+      "dbytes": 2656.0,
+      "rate": 4845.884999,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 90.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 28.0,
+      "dur": 1.418427,
+      "sbytes": 836.0,
+      "dbytes": 682.0,
+      "rate": 19.035171,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 90.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 74.0,
+      "dur": 0.819121,
+      "sbytes": 68201.0,
+      "dbytes": 612.0,
+      "rate": 89.119922,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 28.0,
+      "dur": 0.835011,
+      "sbytes": 1402.0,
+      "dbytes": 764.0,
+      "rate": 32.334903,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.196763,
+      "sbytes": 978.0,
+      "dbytes": 86.0,
+      "rate": 35.575795,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 194.0,
+      "dur": 0.056619,
+      "sbytes": 5486.0,
+      "dbytes": 92746.0,
+      "rate": 3408.749732,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-06,
+      "sbytes": 104.0,
+      "dbytes": 0.0,
+      "rate": 1000000.003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.468489,
+      "sbytes": 490.0,
+      "dbytes": 268.0,
+      "rate": 32.017828,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.905653,
+      "sbytes": 534.0,
+      "dbytes": 268.0,
+      "rate": 16.562635,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.001803,
+      "sbytes": 528.0,
+      "dbytes": 304.0,
+      "rate": 3882.418209,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.848628,
+      "sbytes": 978.0,
+      "dbytes": 354.0,
+      "rate": 20.032335,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 34.0,
+      "dur": 0.020169,
+      "sbytes": 1540.0,
+      "dbytes": 1644.0,
+      "rate": 1636.174391,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.368387,
+      "sbytes": 978.0,
+      "dbytes": 86.0,
+      "rate": 19.001756,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.007212,
+      "sbytes": 568.0,
+      "dbytes": 304.0,
+      "rate": 970.604552,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 548.0,
+      "dur": 8.692048,
+      "sbytes": 11619.0,
+      "dbytes": 428195.0,
+      "rate": 62.931083,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.004891,
+      "sbytes": 568.0,
+      "dbytes": 312.0,
+      "rate": 1431.200098,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.579838,
+      "sbytes": 548.0,
+      "dbytes": 354.0,
+      "rate": 29.318535,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.686195,
+      "sbytes": 628.0,
+      "dbytes": 268.0,
+      "rate": 21.859675,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.004812,
+      "sbytes": 568.0,
+      "dbytes": 312.0,
+      "rate": 1454.696636,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 74.0,
+      "dur": 1.751836,
+      "sbytes": 68043.0,
+      "dbytes": 612.0,
+      "rate": 41.670569,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 78.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 0.001146,
+      "sbytes": 132.0,
+      "dbytes": 164.0,
+      "rate": 2617.801058,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.349467,
+      "sbytes": 1012.0,
+      "dbytes": 86.0,
+      "rate": 20.030503,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 34.0,
+      "dur": 0.013483,
+      "sbytes": 1540.0,
+      "dbytes": 1644.0,
+      "rate": 2447.526517,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 1.139382,
+      "sbytes": 534.0,
+      "dbytes": 268.0,
+      "rate": 13.165032,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 34.0,
+      "dur": 0.013151,
+      "sbytes": 1540.0,
+      "dbytes": 1644.0,
+      "rate": 2509.314833,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.900921,
+      "sbytes": 806.0,
+      "dbytes": 1248.0,
+      "rate": 18.869579,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.502923,
+      "sbytes": 486.0,
+      "dbytes": 354.0,
+      "rate": 33.80239,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 120.0,
+      "dur": 6.195797,
+      "sbytes": 5928.0,
+      "dbytes": 8010.0,
+      "rate": 19.206569,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 1.248044,
+      "sbytes": 978.0,
+      "dbytes": 86.0,
+      "rate": 5.608777,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.07814,
+      "sbytes": 756.0,
+      "dbytes": 354.0,
+      "rate": 15.767896,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 90.0,
+      "dur": 0.475736,
+      "sbytes": 37268.0,
+      "dbytes": 3172.0,
+      "rate": 187.078551,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.374133,
+      "sbytes": 828.0,
+      "dbytes": 1076.0,
+      "rate": 45.438388,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.201498,
+      "sbytes": 1012.0,
+      "dbytes": 86.0,
+      "rate": 34.739799,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 1.0,
+      "dur": 0.001,
+      "sbytes": 46.0,
+      "dbytes": 0.0,
+      "rate": 0.0,
+      "proto": "arp"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 0.001311,
+      "sbytes": 146.0,
+      "dbytes": 178.0,
+      "rate": 2288.32957,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.688018,
+      "sbytes": 534.0,
+      "dbytes": 268.0,
+      "rate": 21.801754,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.057639,
+      "sbytes": 672.0,
+      "dbytes": 354.0,
+      "rate": 16.073537,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.12954,
+      "sbytes": 490.0,
+      "dbytes": 354.0,
+      "rate": 15.050375,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 1064.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.601002,
+      "sbytes": 514.0,
+      "dbytes": 268.0,
+      "rate": 24.958321,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 78.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 0.004455,
+      "sbytes": 8928.0,
+      "dbytes": 320.0,
+      "rate": 4264.870776,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.571627,
+      "sbytes": 978.0,
+      "dbytes": 86.0,
+      "rate": 12.245747,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.786382,
+      "sbytes": 800.0,
+      "dbytes": 1078.0,
+      "rate": 21.617992,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 34.0,
+      "dur": 0.01993,
+      "sbytes": 1540.0,
+      "dbytes": 1644.0,
+      "rate": 1655.795326,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 248.0,
+      "dur": 1.122902,
+      "sbytes": 7808.0,
+      "dbytes": 15182.0,
+      "rate": 219.96576,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.697857,
+      "sbytes": 832.0,
+      "dbytes": 1212.0,
+      "rate": 24.360291,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 78.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.004549,
+      "sbytes": 568.0,
+      "dbytes": 312.0,
+      "rate": 1538.799754,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.61564,
+      "sbytes": 534.0,
+      "dbytes": 268.0,
+      "rate": 24.364889,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.684445,
+      "sbytes": 534.0,
+      "dbytes": 268.0,
+      "rate": 21.915566,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 26.0,
+      "dur": 0.985858,
+      "sbytes": 774.0,
+      "dbytes": 642.0,
+      "rate": 25.358621,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 74.0,
+      "dur": 2.875209,
+      "sbytes": 68115.0,
+      "dbytes": 698.0,
+      "rate": 25.389458,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.601069,
+      "sbytes": 812.0,
+      "dbytes": 1296.0,
+      "rate": 28.282944,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 1.295144,
+      "sbytes": 2516.0,
+      "dbytes": 268.0,
+      "rate": 11.581724,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.001783,
+      "sbytes": 512.0,
+      "dbytes": 304.0,
+      "rate": 3925.967567,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.442846,
+      "sbytes": 4938.0,
+      "dbytes": 268.0,
+      "rate": 38.388063,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 34.0,
+      "dur": 0.018384,
+      "sbytes": 1540.0,
+      "dbytes": 1644.0,
+      "rate": 1795.039137,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.456436,
+      "sbytes": 1612.0,
+      "dbytes": 268.0,
+      "rate": 32.863314,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 90.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 1078.0,
+      "dur": 2.251716,
+      "sbytes": 17746.0,
+      "dbytes": 1087890.0,
+      "rate": 478.301903,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 34.0,
+      "dur": 0.033936,
+      "sbytes": 1540.0,
+      "dbytes": 1644.0,
+      "rate": 972.418631,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.470386,
+      "sbytes": 490.0,
+      "dbytes": 268.0,
+      "rate": 31.888704,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 1.090018,
+      "sbytes": 878.0,
+      "dbytes": 1060.0,
+      "rate": 17.430904,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 1090.0,
+      "dur": 39.797947,
+      "sbytes": 18370.0,
+      "dbytes": 1087890.0,
+      "rate": 27.363221,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.726024,
+      "sbytes": 838.0,
+      "dbytes": 1122.0,
+      "rate": 23.415205,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 94.0,
+      "dur": 0.048183,
+      "sbytes": 37196.0,
+      "dbytes": 3380.0,
+      "rate": 1930.141273,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 122.0,
+      "dur": 0.023877,
+      "sbytes": 3614.0,
+      "dbytes": 49342.0,
+      "rate": 5067.63822,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 94.0,
+      "dur": 0.173095,
+      "sbytes": 2854.0,
+      "dbytes": 30622.0,
+      "rate": 537.277209,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 104.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 0.001055,
+      "sbytes": 132.0,
+      "dbytes": 164.0,
+      "rate": 2843.601894,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 1.015313,
+      "sbytes": 498.0,
+      "dbytes": 268.0,
+      "rate": 14.773769,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 8.0,
+      "dur": 0.433336,
+      "sbytes": 1012.0,
+      "dbytes": 86.0,
+      "rate": 16.153747,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 0.000999,
+      "sbytes": 132.0,
+      "dbytes": 164.0,
+      "rate": 3003.002883,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 1.59076,
+      "sbytes": 994.0,
+      "dbytes": 268.0,
+      "rate": 9.429455,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 0.000993,
+      "sbytes": 146.0,
+      "dbytes": 178.0,
+      "rate": 3021.148054,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.476677,
+      "sbytes": 802.0,
+      "dbytes": 1236.0,
+      "rate": 35.663562,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 40.0,
+      "dur": 0.122918,
+      "sbytes": 4336.0,
+      "dbytes": 2560.0,
+      "rate": 317.284688,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 254.0,
+      "dur": 1.176531,
+      "sbytes": 5592.0,
+      "dbytes": 192828.0,
+      "rate": 215.038966,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 34.0,
+      "dur": 0.014637,
+      "sbytes": 1540.0,
+      "dbytes": 1644.0,
+      "rate": 2254.560372,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 98.0,
+      "dur": 0.016907,
+      "sbytes": 2958.0,
+      "dbytes": 32368.0,
+      "rate": 5737.268277,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 34.0,
+      "dur": 0.019271,
+      "sbytes": 1540.0,
+      "dbytes": 1644.0,
+      "rate": 1712.417679,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.006997,
+      "sbytes": 1040.0,
+      "dbytes": 824.0,
+      "rate": 2429.612705,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 106.0,
+      "dur": 1.638533,
+      "sbytes": 2934.0,
+      "dbytes": 3742.0,
+      "rate": 64.081712,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.717874,
+      "sbytes": 856.0,
+      "dbytes": 1136.0,
+      "rate": 23.681036,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 0.00115,
+      "sbytes": 146.0,
+      "dbytes": 178.0,
+      "rate": 2608.695594,
+      "proto": "udp"
+    }
+  ],
+  "DoS": [
+    {
+      "packet_count": 4.0,
+      "dur": 7.200432,
+      "sbytes": 400.0,
+      "dbytes": 0.0,
+      "rate": 0.416642,
+      "proto": "rvd"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 1.007653,
+      "sbytes": 360.0,
+      "dbytes": 0.0,
+      "rate": 2.977215,
+      "proto": "st2"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "ipv6-route"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 104.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "sctp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 1000000.003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.532198,
+      "sbytes": 804.0,
+      "dbytes": 1268.0,
+      "rate": 31.942998,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.221942,
+      "sbytes": 1050.0,
+      "dbytes": 1184.0,
+      "rate": 76.596591,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 9150.0,
+      "dur": 59.96682,
+      "sbytes": 51734.0,
+      "dbytes": 10625785.0,
+      "rate": 152.567704,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "snp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "scps"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "tcf"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 180.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "nvp"
+    },
+    {
+      "packet_count": 1.0,
+      "dur": 1.4e-05,
+      "sbytes": 60.0,
+      "dbytes": 0.0,
+      "rate": 0.0,
+      "proto": "mobile"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.334204,
+      "sbytes": 804.0,
+      "dbytes": 1348.0,
+      "rate": 50.867137,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "cphb"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 2634.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "ifmp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "larp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 776.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "sctp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.107989,
+      "sbytes": 518.0,
+      "dbytes": 354.0,
+      "rate": 15.343113,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "smp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "sat-mon"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "dgp"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 28.213135,
+      "sbytes": 1280.0,
+      "dbytes": 0.0,
+      "rate": 0.673445,
+      "proto": "ospf"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.274758,
+      "sbytes": 451.0,
+      "dbytes": 268.0,
+      "rate": 54.593495,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "trunk-2"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "encap"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "scps"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.276928,
+      "sbytes": 866.0,
+      "dbytes": 2028.0,
+      "rate": 61.387796,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "isis"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "narp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.483819,
+      "sbytes": 826.0,
+      "dbytes": 2772.0,
+      "rate": 35.137106,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.45117,
+      "sbytes": 818.0,
+      "dbytes": 1416.0,
+      "rate": 37.67981,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "ddp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "sctp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 104.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "sep"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "i-nlsp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "leaf-1"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "ippc"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "3pc"
+    },
+    {
+      "packet_count": 6800.0,
+      "dur": 59.954037,
+      "sbytes": 39070.0,
+      "dbytes": 7862186.0,
+      "rate": 113.40354,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 126.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "sat-expak"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "trunk-1"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "xns-idp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.272667,
+      "sbytes": 818.0,
+      "dbytes": 2154.0,
+      "rate": 62.347114,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 216.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.36215,
+      "sbytes": 818.0,
+      "dbytes": 1214.0,
+      "rate": 46.941873,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "gre"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 180.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "argus"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.299316,
+      "sbytes": 878.0,
+      "dbytes": 1002.0,
+      "rate": 56.796164,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 180.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "argus"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "any"
+    },
+    {
+      "packet_count": 88.0,
+      "dur": 0.897222,
+      "sbytes": 1260.0,
+      "dbytes": 65808.0,
+      "rate": 96.96597,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 156.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "gre"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.191312,
+      "sbytes": 1936.0,
+      "dbytes": 268.0,
+      "rate": 78.405955,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 1000000.003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "larp"
+    },
+    {
+      "packet_count": 24.0,
+      "dur": 0.918789,
+      "sbytes": 12130.0,
+      "dbytes": 354.0,
+      "rate": 25.03295,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "cpnx"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 68.0,
+      "dur": 59.744881,
+      "sbytes": 18496.0,
+      "dbytes": 0.0,
+      "rate": 1.121435,
+      "proto": "ospf"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "wb-mon"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 180.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "ggp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "il"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "fc"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "xns-idp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 26.0,
+      "dur": 0.344267,
+      "sbytes": 10508.0,
+      "dbytes": 1508.0,
+      "rate": 72.618053,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "secure-vmtp"
+    },
+    {
+      "packet_count": 42.0,
+      "dur": 9.63313,
+      "sbytes": 2688.0,
+      "dbytes": 0.0,
+      "rate": 4.256145,
+      "proto": "ospf"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "iplt"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 6.0,
+      "dur": 0.746085,
+      "sbytes": 632.0,
+      "dbytes": 496.0,
+      "rate": 6.701649,
+      "proto": "sctp"
+    },
+    {
+      "packet_count": 1162.0,
+      "dur": 59.977112,
+      "sbytes": 370560.0,
+      "dbytes": 16770.0,
+      "rate": 19.357384,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 0.233622,
+      "sbytes": 152.0,
+      "dbytes": 82.0,
+      "rate": 12.841256,
+      "proto": "sctp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "tcf"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "kryptolan"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 180.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "bbn-rcc"
+    },
+    {
+      "packet_count": 26.0,
+      "dur": 0.15584,
+      "sbytes": 17018.0,
+      "dbytes": 268.0,
+      "rate": 160.42095,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "ifmp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "crudp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "ipcv"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "wsn"
+    },
+    {
+      "packet_count": 36.0,
+      "dur": 1.746739,
+      "sbytes": 4706.0,
+      "dbytes": 1246.0,
+      "rate": 20.037338,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.344101,
+      "sbytes": 964.0,
+      "dbytes": 1284.0,
+      "rate": 49.404098,
+      "proto": "tcp"
+    }
+  ],
+  "Port Scan": [
+    {
+      "packet_count": 2.0,
+      "dur": 1.3e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 76923.07779,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.631712,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 26.910997,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.669677,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 25.385372,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 14.0,
+      "dur": 0.578324,
+      "sbytes": 468.0,
+      "dbytes": 258.0,
+      "rate": 22.478748,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.213606,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 14.007841,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.417492,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 11.993013,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.670065,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 25.370674,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.79913,
+      "sbytes": 850.0,
+      "dbytes": 354.0,
+      "rate": 9.449012,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.805942,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 21.093329,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.058833,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 16.055412,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.012033,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 16.797871,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.791718,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 9.4881,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.975644,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 17.424389,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.938189,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 18.120016,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.92293,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 18.419598,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.984805,
+      "sbytes": 804.0,
+      "dbytes": 354.0,
+      "rate": 17.262301,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.196728,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 14.2054,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.744419,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 22.836602,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.787479,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 21.587878,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.162029,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 14.629583,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.4e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 71428.57045,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.367763,
+      "sbytes": 844.0,
+      "dbytes": 268.0,
+      "rate": 40.787136,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3.2e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 31250.00008,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.783644,
+      "sbytes": 804.0,
+      "dbytes": 354.0,
+      "rate": 21.693524,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.546923,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 10.989558,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.6269,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 27.117562,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.302192,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 13.054911,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 1.005567,
+      "sbytes": 956.0,
+      "dbytes": 268.0,
+      "rate": 14.916958,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.158168,
+      "sbytes": 832.0,
+      "dbytes": 268.0,
+      "rate": 94.835869,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.879606,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 19.326835,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.025656,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 16.574758,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 1000000.003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.825859,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 20.584627,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.662747,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 25.650813,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.741884,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 22.914634,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.547115,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 10.988194,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.187733,
+      "sbytes": 958.0,
+      "dbytes": 268.0,
+      "rate": 79.900712,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.583212,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 10.737665,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.209314,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 14.057557,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.981019,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 17.32892,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.18652,
+      "sbytes": 930.0,
+      "dbytes": 268.0,
+      "rate": 80.420332,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.209841,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 14.051433,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.950201,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 17.890952,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.747827,
+      "sbytes": 806.0,
+      "dbytes": 268.0,
+      "rate": 20.058115,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.860488,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 19.756231,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 1000000.003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.175864,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 14.457454,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.636059,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 26.727081,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.632005,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 26.898522,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.517269,
+      "sbytes": 1016.0,
+      "dbytes": 268.0,
+      "rate": 28.998451,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.99932,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 8.502891,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.623199,
+      "sbytes": 820.0,
+      "dbytes": 268.0,
+      "rate": 24.069359,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.682789,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 24.897881,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.987715,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 17.211442,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.39426,
+      "sbytes": 818.0,
+      "dbytes": 354.0,
+      "rate": 43.118755,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.750328,
+      "sbytes": 818.0,
+      "dbytes": 354.0,
+      "rate": 22.656758,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.417129,
+      "sbytes": 844.0,
+      "dbytes": 354.0,
+      "rate": 40.754778,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.683774,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 24.862016,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.413119,
+      "sbytes": 940.0,
+      "dbytes": 268.0,
+      "rate": 36.309152,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 1000000.003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3.6e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 27777.7768,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.626504,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 27.134703,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.2e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 83333.33039,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.186602,
+      "sbytes": 816.0,
+      "dbytes": 268.0,
+      "rate": 80.384992,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.5336,
+      "sbytes": 858.0,
+      "dbytes": 268.0,
+      "rate": 28.110946,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.886019,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 19.186948,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.900689,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 18.874439,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.4e-05,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 71428.57045,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 1000000.003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.626904,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 27.117389,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 168.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 2.396212,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 7.094531,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.987279,
+      "sbytes": 564.0,
+      "dbytes": 354.0,
+      "rate": 17.219043,
+      "proto": "tcp"
+    }
+  ],
+  "Brute Force": [
+    {
+      "packet_count": 2.0,
+      "dur": 2.6e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 38461.5389,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 1000000.003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 1000000.003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.2e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 83333.33039,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.2e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 83333.33039,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.445634,
+      "sbytes": 1126.0,
+      "dbytes": 1508.0,
+      "rate": 38.147897,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 0.001,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 0.0,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.2e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 83333.33039,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 1000000.003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 166666.6608,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 5e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 9e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 111111.1072,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 333333.3215,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 114.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    }
+  ],
+  "Other attacks": [
+    {
+      "packet_count": 2.0,
+      "dur": 1.2e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 83333.33039,
+      "proto": "iso-tp4"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 0.320637,
+      "sbytes": 2272.0,
+      "dbytes": 392.0,
+      "rate": 59.257044,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 50.0,
+      "dur": 0.359004,
+      "sbytes": 976.0,
+      "dbytes": 42952.0,
+      "rate": 136.488733,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 4.0,
+      "dur": 0.208751,
+      "sbytes": 2962.0,
+      "dbytes": 760.0,
+      "rate": 14.371189,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 34.0,
+      "dur": 1.257224,
+      "sbytes": 2304.0,
+      "dbytes": 2372.0,
+      "rate": 26.248307,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 36.0,
+      "dur": 1.805606,
+      "sbytes": 1028.0,
+      "dbytes": 3052.0,
+      "rate": 19.384074,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 1.07196,
+      "sbytes": 364.0,
+      "dbytes": 1254.0,
+      "rate": 13.99306,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 2.840907,
+      "sbytes": 1850.0,
+      "dbytes": 268.0,
+      "rate": 6.688005,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 1.126152,
+      "sbytes": 608.0,
+      "dbytes": 646.0,
+      "rate": 16.871612,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 2e-06,
+      "sbytes": 104.0,
+      "dbytes": 0.0,
+      "rate": 500000.0013,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 30.0,
+      "dur": 0.25713,
+      "sbytes": 896.0,
+      "dbytes": 17136.0,
+      "rate": 112.783418,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.207042,
+      "sbytes": 1070.0,
+      "dbytes": 268.0,
+      "rate": 72.44907,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.191698,
+      "sbytes": 938.0,
+      "dbytes": 268.0,
+      "rate": 78.248078,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 84.0,
+      "dur": 0.928124,
+      "sbytes": 68214.0,
+      "dbytes": 1026.0,
+      "rate": 89.427705,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.2e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "any"
+    },
+    {
+      "packet_count": 15.0,
+      "dur": 0.662167,
+      "sbytes": 364.0,
+      "dbytes": 668.0,
+      "rate": 21.142702,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 22.0,
+      "dur": 1.597421,
+      "sbytes": 1106.0,
+      "dbytes": 812.0,
+      "rate": 13.14619,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 48.0,
+      "dur": 2.346898,
+      "sbytes": 6640.0,
+      "dbytes": 2790.0,
+      "rate": 20.026434,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 50.0,
+      "dur": 1.810406,
+      "sbytes": 1094.0,
+      "dbytes": 19628.0,
+      "rate": 27.065753,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "a/n"
+    },
+    {
+      "packet_count": 74.0,
+      "dur": 1.269919,
+      "sbytes": 41347.0,
+      "dbytes": 2056.0,
+      "rate": 57.48398,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.892655,
+      "sbytes": 1364.0,
+      "dbytes": 268.0,
+      "rate": 16.803804,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.237768,
+      "sbytes": 454.0,
+      "dbytes": 410.0,
+      "rate": 71.498269,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.654317,
+      "sbytes": 910.0,
+      "dbytes": 354.0,
+      "rate": 25.98129,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.562691,
+      "sbytes": 824.0,
+      "dbytes": 1746.0,
+      "rate": 30.211965,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 26.0,
+      "dur": 0.65645,
+      "sbytes": 906.0,
+      "dbytes": 556.0,
+      "rate": 38.083633,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 74.0,
+      "dur": 1.449096,
+      "sbytes": 68197.0,
+      "dbytes": 612.0,
+      "rate": 50.376236,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 26.0,
+      "dur": 0.565988,
+      "sbytes": 778.0,
+      "dbytes": 678.0,
+      "rate": 44.170547,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 62.0,
+      "dur": 1.796517,
+      "sbytes": 30843.0,
+      "dbytes": 1680.0,
+      "rate": 33.954591,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.378403,
+      "sbytes": 866.0,
+      "dbytes": 1110.0,
+      "rate": 44.925647,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.456933,
+      "sbytes": 546.0,
+      "dbytes": 268.0,
+      "rate": 32.82757,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.2e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 83333.33039,
+      "proto": "iso-tp4"
+    },
+    {
+      "packet_count": 44.0,
+      "dur": 1.705414,
+      "sbytes": 1210.0,
+      "dbytes": 1662.0,
+      "rate": 25.213818,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 42.0,
+      "dur": 2.192246,
+      "sbytes": 1386.0,
+      "dbytes": 27894.0,
+      "rate": 18.702281,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.708745,
+      "sbytes": 738.0,
+      "dbytes": 268.0,
+      "rate": 21.16417,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 0.641887,
+      "sbytes": 1038.0,
+      "dbytes": 754.0,
+      "rate": 29.600225,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "ipcomp"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 0.656561,
+      "sbytes": 1044.0,
+      "dbytes": 762.0,
+      "rate": 28.938666,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 22.0,
+      "dur": 0.597152,
+      "sbytes": 1012.0,
+      "dbytes": 782.0,
+      "rate": 35.166926,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 4e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 250000.0006,
+      "proto": "stp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 134.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 200000.0051,
+      "proto": "pnni"
+    },
+    {
+      "packet_count": 42.0,
+      "dur": 1.144592,
+      "sbytes": 4146.0,
+      "dbytes": 1848.0,
+      "rate": 35.820623,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.409361,
+      "sbytes": 884.0,
+      "dbytes": 354.0,
+      "rate": 41.528137,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "narp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.449432,
+      "sbytes": 364.0,
+      "dbytes": 3754.0,
+      "rate": 37.825523,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.350396,
+      "sbytes": 364.0,
+      "dbytes": 3754.0,
+      "rate": 12.5889,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 66.0,
+      "dur": 3.802839,
+      "sbytes": 1196.0,
+      "dbytes": 38076.0,
+      "rate": 17.092493,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.501289,
+      "sbytes": 986.0,
+      "dbytes": 268.0,
+      "rate": 29.922858,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 44.0,
+      "dur": 1.151317,
+      "sbytes": 1190.0,
+      "dbytes": 1652.0,
+      "rate": 37.348532,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 90.0,
+      "dur": 1.40101,
+      "sbytes": 2584.0,
+      "dbytes": 87876.0,
+      "rate": 63.525598,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.295437,
+      "sbytes": 364.0,
+      "dbytes": 428.0,
+      "rate": 50.772244,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 3e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 34.0,
+      "dur": 0.905384,
+      "sbytes": 17796.0,
+      "dbytes": 902.0,
+      "rate": 36.448623,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 68.0,
+      "dur": 1.856112,
+      "sbytes": 1198.0,
+      "dbytes": 41804.0,
+      "rate": 36.09696,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 22.0,
+      "dur": 1.362346,
+      "sbytes": 1042.0,
+      "dbytes": 844.0,
+      "rate": 15.414586,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 146.0,
+      "dur": 1.711972,
+      "sbytes": 1608.0,
+      "dbytes": 129668.0,
+      "rate": 84.697647,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 22.0,
+      "dur": 0.215157,
+      "sbytes": 806.0,
+      "dbytes": 8088.0,
+      "rate": 97.603145,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 86.0,
+      "dur": 2.399923,
+      "sbytes": 58354.0,
+      "dbytes": 1972.0,
+      "rate": 35.417802,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 6e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "cpnx"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 180.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "argus"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 100000.0025,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.864614,
+      "sbytes": 534.0,
+      "dbytes": 354.0,
+      "rate": 9.117168,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.276639,
+      "sbytes": 742.0,
+      "dbytes": 268.0,
+      "rate": 54.222287,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 74.0,
+      "dur": 0.700571,
+      "sbytes": 68201.0,
+      "dbytes": 612.0,
+      "rate": 104.200716,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 74.0,
+      "dur": 0.719761,
+      "sbytes": 68197.0,
+      "dbytes": 612.0,
+      "rate": 101.422554,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.216794,
+      "sbytes": 856.0,
+      "dbytes": 1648.0,
+      "rate": 78.415455,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 104.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 1000000.003,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 180.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "argus"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.876686,
+      "sbytes": 920.0,
+      "dbytes": 268.0,
+      "rate": 17.109889,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 22.0,
+      "dur": 2.641758,
+      "sbytes": 994.0,
+      "dbytes": 818.0,
+      "rate": 7.949252,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 26.0,
+      "dur": 0.717317,
+      "sbytes": 858.0,
+      "dbytes": 9898.0,
+      "rate": 34.852095,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 42.0,
+      "dur": 3.0247,
+      "sbytes": 3739.0,
+      "dbytes": 1814.0,
+      "rate": 13.555064,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 0.686312,
+      "sbytes": 1036.0,
+      "dbytes": 758.0,
+      "rate": 27.684201,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 20.0,
+      "dur": 0.539783,
+      "sbytes": 7886.0,
+      "dbytes": 268.0,
+      "rate": 35.19933,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.386344,
+      "sbytes": 1000.0,
+      "dbytes": 268.0,
+      "rate": 38.825504,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 30.0,
+      "dur": 1.93734,
+      "sbytes": 4162.0,
+      "dbytes": 615.0,
+      "rate": 14.968978,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.58333,
+      "sbytes": 1380.0,
+      "dbytes": 354.0,
+      "rate": 29.143025,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.575719,
+      "sbytes": 2302.0,
+      "dbytes": 268.0,
+      "rate": 26.054377,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 72.0,
+      "dur": 9.842473,
+      "sbytes": 13851.0,
+      "dbytes": 2220.0,
+      "rate": 7.213634,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.360285,
+      "sbytes": 364.0,
+      "dbytes": 3754.0,
+      "rate": 47.184866,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 26.0,
+      "dur": 0.871432,
+      "sbytes": 12632.0,
+      "dbytes": 812.0,
+      "rate": 28.688412,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.312529,
+      "sbytes": 472.0,
+      "dbytes": 564.0,
+      "rate": 54.394953,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 8e-06,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 125000.0003,
+      "proto": "larp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.1e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 90909.0902,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.565957,
+      "sbytes": 862.0,
+      "dbytes": 268.0,
+      "rate": 26.50378,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.266142,
+      "sbytes": 784.0,
+      "dbytes": 1604.0,
+      "rate": 63.875673,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 376.0,
+      "dur": 6.808105,
+      "sbytes": 395645.0,
+      "dbytes": 3762.0,
+      "rate": 55.081407,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 46.0,
+      "dur": 1.686136,
+      "sbytes": 6274.0,
+      "dbytes": 1812.0,
+      "rate": 26.688239,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 36.0,
+      "dur": 0.288791,
+      "sbytes": 862.0,
+      "dbytes": 27004.0,
+      "rate": 121.194912,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 50.0,
+      "dur": 0.651802,
+      "sbytes": 954.0,
+      "dbytes": 40598.0,
+      "rate": 75.176203,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 1.101557,
+      "sbytes": 1206.0,
+      "dbytes": 268.0,
+      "rate": 13.617089,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 22.0,
+      "dur": 0.44741,
+      "sbytes": 814.0,
+      "dbytes": 4258.0,
+      "rate": 46.936815,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.751526,
+      "sbytes": 756.0,
+      "dbytes": 268.0,
+      "rate": 19.959389,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 60.0,
+      "dur": 3.899688,
+      "sbytes": 1130.0,
+      "dbytes": 25220.0,
+      "rate": 15.129415,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 1.252679,
+      "sbytes": 1150.0,
+      "dbytes": 354.0,
+      "rate": 13.570915,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 7e-06,
+      "sbytes": 104.0,
+      "dbytes": 0.0,
+      "rate": 142857.1409,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 24.0,
+      "dur": 0.219934,
+      "sbytes": 8436.0,
+      "dbytes": 812.0,
+      "rate": 104.576827,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 30.0,
+      "dur": 1.674864,
+      "sbytes": 1034.0,
+      "dbytes": 708.0,
+      "rate": 17.314838,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 40.0,
+      "dur": 1.201112,
+      "sbytes": 2640.0,
+      "dbytes": 1802.0,
+      "rate": 32.46991,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.173632,
+      "sbytes": 552.0,
+      "dbytes": 268.0,
+      "rate": 86.389608,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 22.0,
+      "dur": 1.221107,
+      "sbytes": 1042.0,
+      "dbytes": 826.0,
+      "rate": 17.19751,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 24.0,
+      "dur": 0.565817,
+      "sbytes": 696.0,
+      "dbytes": 682.0,
+      "rate": 40.649185,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.9e-05,
+      "sbytes": 200.0,
+      "dbytes": 0.0,
+      "rate": 52631.58129,
+      "proto": "unas"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.306127,
+      "sbytes": 1078.0,
+      "dbytes": 268.0,
+      "rate": 48.99927,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.525647,
+      "sbytes": 488.0,
+      "dbytes": 268.0,
+      "rate": 28.536262,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.233834,
+      "sbytes": 2412.0,
+      "dbytes": 268.0,
+      "rate": 64.148071,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 16.0,
+      "dur": 0.463321,
+      "sbytes": 738.0,
+      "dbytes": 268.0,
+      "rate": 32.374962,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 36.0,
+      "dur": 0.633985,
+      "sbytes": 1024.0,
+      "dbytes": 3010.0,
+      "rate": 55.206355,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 44.0,
+      "dur": 2.050846,
+      "sbytes": 9066.0,
+      "dbytes": 2106.0,
+      "rate": 20.966956,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 2.0,
+      "dur": 1.2e-05,
+      "sbytes": 1604.0,
+      "dbytes": 0.0,
+      "rate": 83333.33039,
+      "proto": "udp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.449262,
+      "sbytes": 716.0,
+      "dbytes": 354.0,
+      "rate": 37.839836,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 100.0,
+      "dur": 0.457358,
+      "sbytes": 103438.0,
+      "dbytes": 698.0,
+      "rate": 216.460627,
+      "proto": "tcp"
+    },
+    {
+      "packet_count": 18.0,
+      "dur": 0.50407,
+      "sbytes": 5748.0,
+      "dbytes": 268.0,
+      "rate": 33.725476,
+      "proto": "tcp"
+    }
+  ]
+}

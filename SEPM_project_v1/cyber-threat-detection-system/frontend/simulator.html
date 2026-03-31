@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Network Simulator — Cyber Threat Detection</title>
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsplumb/2.15.6/css/jsplumbtoolkit-defaults.min.css" />
+  </head>
+  <body data-page="simulator">
+    <header class="topbar site-header">
+      <a href="/" class="brand brand-link">CyberShield <span class="brand-sub">Threat Lab</span></a>
+      <nav class="nav-links nav-main" aria-label="Primary">
+        <a href="/" class="nav-item">Home</a>
+        <a href="/dashboard" class="nav-item">Dashboard</a>
+        <a href="/simulator" class="nav-item active">Simulator</a>
+        <a href="/admin" class="nav-item" id="navAdmin" hidden>Admin</a>
+        <span class="nav-divider" aria-hidden="true"></span>
+        <button type="button" class="btn btn-ghost btn-sm" id="logoutBtnSim">Logout</button>
+      </nav>
+    </header>
+    <main class="container">
+      <p class="muted">
+        Add devices and IPs, then <strong>drag from any colored dot to a dot on another device</strong> (green = left, blue = right).
+        Run uses your protocol, packets, and per-link attack—or turn on <strong>Random each link</strong> so every connection gets its own random UNSW-like flow; the model still classifies and explains each log.
+      </p>
+      <div class="sim-layout card" style="padding:1rem;">
+        <div class="palette">
+          <strong class="muted" style="font-size:0.85rem;">Add device</strong>
+          <button type="button" class="btn" data-add="Laptop">+ Laptop</button>
+          <button type="button" class="btn" data-add="Router">+ Router</button>
+          <button type="button" class="btn" data-add="Server">+ Server</button>
+          <hr style="border-color:var(--border);" />
+          <label for="v_proto">Protocol</label>
+          <select id="v_proto">
+            <option>TCP</option>
+            <option>UDP</option>
+            <option>ICMP</option>
+          </select>
+          <label for="v_pkts">Packets (default per link)</label>
+          <input id="v_pkts" type="number" value="300" min="1" />
+          <label class="checkbox-row" style="margin-top:0.35rem;">
+            <input type="checkbox" id="v_random" />
+            <span>Random each link (ignore palette &amp; table attack for generation)</span>
+          </label>
+        </div>
+        <div id="simCanvas"></div>
+      </div>
+
+      <section class="card">
+        <h2>Connections &amp; attacks</h2>
+        <div class="table-wrap" style="max-height:200px;">
+          <table>
+            <thead>
+              <tr>
+                <th>From</th>
+                <th>To</th>
+                <th>Attack type</th>
+              </tr>
+            </thead>
+            <tbody id="linkTable"></tbody>
+          </table>
+        </div>
+        <button type="button" class="btn btn-primary" id="runVisual" style="margin-top:0.75rem;">
+          Run visual simulation
+        </button>
+        <div id="visualOut" class="visual-out muted" aria-live="polite"></div>
+      </section>
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsPlumb/2.15.6/js/jsplumb.min.js"></script>
+    <script src="/script.js"></script>
+  </body>
+</html>

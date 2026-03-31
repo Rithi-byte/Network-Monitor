@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create account — Cyber Threat Detection</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body data-page="register" class="auth-body">
+    <header class="topbar site-header">
+      <a href="/" class="brand brand-link">CyberShield <span class="brand-sub">Threat Lab</span></a>
+      <nav class="nav-links nav-main" aria-label="Primary">
+        <a href="/" class="nav-item">Home</a>
+        <a href="/login" class="nav-item">Sign in</a>
+      </nav>
+    </header>
+
+    <main class="auth-wrap">
+      <div class="auth-panel card">
+        <h1 class="auth-title">Create account</h1>
+        <p class="muted auth-lead">Choose a username and password. Role defaults to user.</p>
+        <div id="regError" class="error-msg" role="alert" hidden></div>
+        <div id="regOk" class="success-panel" hidden></div>
+        <form id="regForm" class="auth-form">
+          <label for="reg_user">Username</label>
+          <input id="reg_user" name="username" autocomplete="username" required />
+          <label for="reg_pass">Password</label>
+          <input id="reg_pass" name="password" type="password" autocomplete="new-password" required />
+          <button type="submit" class="btn btn-primary btn-block">Register</button>
+        </form>
+        <p class="auth-switch muted">
+          Already registered?
+          <a href="/login">Sign in</a>
+        </p>
+      </div>
+    </main>
+
+    <footer class="site-footer site-footer-min">
+      <div class="container footer-inner">
+        <a href="/" class="muted footer-back">&larr; Back to home</a>
+      </div>
+    </footer>
+
+    <script src="/script.js"></script>
+  </body>
+</html>
